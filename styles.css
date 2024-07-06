@@ -1,0 +1,32 @@
+body {
+  background: #FFC5A6;
+  color: #58545F;
+}
+div.recipelist,
+h1 {
+  text-align: center;
+}
+
+div.recipelist {
+  font-size: 22px;
+}
+
+h1.center {
+  text-decoration-line: overline underline;
+  text-align: center;
+}
+
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+h3.subheading {
+  text-align: left;
+}
+
+h3.subheading.center {
+  text-align: center;
+}
