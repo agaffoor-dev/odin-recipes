@@ -1,6 +1,6 @@
 body {
-  background: #FFC5A6;
-  color: #58545F;
+  background: #12343b;
+  color: #fff5d7;
 }
 div.recipelist,
 h1 {
@@ -12,8 +12,11 @@ div.recipelist {
 }
 
 h1.center {
-  text-decoration-line: overline underline;
+  padding: 0px;
+  border-style: solid;
+  border-color: #2d545e;
   text-align: center;
+  background-color: #c89666;
 }
 
 img.center {
